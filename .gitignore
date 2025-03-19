@@ -1,0 +1,11 @@
+env/
+.pytest_cache/
+/**/__pycache__/
+/**/migrations/
+dummy_profile/
+profile_pics/
+recipe_photos/
+db.sqlite3
+README.md
+.env
+data.json
