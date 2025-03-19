@@ -170,6 +170,3 @@ AUTHENTICATION_BACKENDS = [
     # Remove 'django.contrib.auth.backends.ModelBackend' if listed
     'django.contrib.auth.backends.ModelBackend',  # Fallback for admin login
 ]
-
-import django_heroku
-django_heroku.settings(locals())
